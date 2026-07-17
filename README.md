@@ -1,1 +1,0 @@
-# USTP-Industry-Protocol-Labs
